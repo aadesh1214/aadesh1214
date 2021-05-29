@@ -11,7 +11,7 @@
 ---
 
 - 🌱 I’m currently learning ...react
-- 🤔 I’m looking for help with ...database management system
+- 🤔 I’m Seeking for intenship
 
 
 
