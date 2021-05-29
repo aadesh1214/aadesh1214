@@ -2,7 +2,7 @@
 
 
 
-### `Crud` `read` `Update` `Delete`
+### `CRUD`
 
 
 <!--
