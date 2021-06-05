@@ -11,7 +11,9 @@
 ---
 
 - 🌱 I’m currently learning ...react
+- :sunglasses: I'm currently learning Flutter
 - 🤔 I’m Seeking for intenship
+ 
 
 
 
